@@ -1,0 +1,13 @@
+node_modules/
+hooks/
+
+platforms/
+lib/
+
+npm_debug.log
+
+.DS_Store*
+Thumbs.db*
+~*
+*.js
+*.js.map
